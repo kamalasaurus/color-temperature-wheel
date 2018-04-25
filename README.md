@@ -52,3 +52,8 @@ there exists an analog in purple for every color on the spectral
 rainbow.  As such every temperature relationship on the natural rainbow can
 be substituted in whole or in part with a corresponding shade of purple.
 
+
+## License
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+
