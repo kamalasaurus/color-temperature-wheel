@@ -38,6 +38,13 @@ purple is the composite of both, it stands to reason that shades of
 purple can range from the warmest to the cooles extremes relative to
 other colors.
 
+- It might be relevant to note that the rods (b & w receptors) are actually
+  most sensitive to spectral yellow-green light, and hence wash out
+frequencies in that domain.  This is why there are no dark yellows, and
+no green stars.  Broad-spectrum green-centered radiation is percieved as
+white by the human eye given biased signal amplification since there are
+so many more rods than cones.
+
 ## Hypothesis
 
 The author believes from many years of observation as an artist, that
